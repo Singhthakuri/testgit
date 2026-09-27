@@ -1,3 +1,3 @@
 document.addEventListener("click",()=>{
-    alert("Hello world");
+    alert("Hello w");
 })
